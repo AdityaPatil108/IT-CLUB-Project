@@ -492,17 +492,13 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ### Project Maintainer
 **Sangameshwar College IT Club**
 
-- 📧 Email: contact@itclub.edu
-- 🌐 Website: [www.itclub.edu](http://www.itclub.edu)
-- 📱 Instagram: [@itclub_sangameshwar](https://instagram.com/itclub_sangameshwar)
-- 👥 Facebook: [IT Club Sangameshwar](https://facebook.com/itclub)
+- 📧 Email: aditya.anmol.patil@gmail.com
+- 🌐 Website: [https://itclub.sanmcs.com/user/index.php](https://itclub.sanmcs.com/user/index.php)
 
 ### Support
 For support and queries:
 - Open an issue on GitHub
-- Email: support@itclub.edu
-- Documentation: [Wiki](https://github.com/yourusername/it-club-management/wiki)
-
+- Email: aditya.anmol.patil@gmail.com
 ---
 
 ## 🙏 Acknowledgments
@@ -514,39 +510,6 @@ For support and queries:
 - **All Contributors** - For making this project better
 
 ---
-
-## 📚 Additional Resources
-
-### Documentation
-- [Installation Guide](docs/INSTALLATION.md)
-- [User Manual](docs/USER_MANUAL.md)
-- [API Documentation](docs/API.md)
-- [Troubleshooting](docs/TROUBLESHOOTING.md)
-
-### Tutorials
-- [Setting up XAMPP](https://www.apachefriends.org/docs/)
-- [PHP MySQL Tutorial](https://www.php.net/manual/en/mysqli.quickstart.php)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/)
-
----
-
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/it-club-management&type=Date)](https://star-history.com/#yourusername/it-club-management&Date)
-
----
-
-## 📊 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/it-club-management)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/it-club-management)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/it-club-management?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/it-club-management?style=social)
-
----
-
 <div align="center">
 
 **Made with ❤️ by Sangameshwar College IT Club**
