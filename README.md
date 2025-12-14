@@ -1,2 +1,2 @@
 # IT-CLUB-Project
-Author :- Aditya Patil
+Author :- Aditya Anmol Patil
