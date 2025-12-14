@@ -1,0 +1,42 @@
+# Sensitive configuration files
+.user.ini
+*.ini
+
+# User data files
+contact_messages.txt
+*.log
+
+# Upload directories
+uploads/*
+!uploads/.gitkeep
+
+# Environment files
+.env
+.env.local
+
+# Composer dependencies
+vendor/
+composer.lock
+
+# Database backups
+*.sql.backup
+*.dump
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
